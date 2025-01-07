@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "A3G8OcPaaWw=",
+  "dgSpecHash": "uMrAEHzKAGV6tjV8d5xQpZDrmZp0/YeQCqyFhH5rhQx54I77xoaNTBWlVsGBc+E+3yaAVvOfg5dJ3JQ9830ZUw==",
   "success": true,
   "projectFilePath": "/home/ofulano01/Documentos/crfs-repo/shopping-list-app/backend/ShoppingListApi/ShoppingListApi.csproj",
   "expectedPackageFiles": [
@@ -10,7 +10,8 @@
     "/home/ofulano01/.nuget/packages/swashbuckle.aspnetcore/6.6.2/swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
     "/home/ofulano01/.nuget/packages/swashbuckle.aspnetcore.swagger/6.6.2/swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
     "/home/ofulano01/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.6.2/swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
-    "/home/ofulano01/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.6.2/swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
+    "/home/ofulano01/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.6.2/swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512",
+    "/home/ofulano01/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512"
   ],
   "logs": []
 }
